@@ -12,10 +12,10 @@
 <br/>
 
 <!-- 徽章区 -->
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-62b47a?style=flat-square&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white)](https://www.minecraft.net/)
-[![NeoForge](https://img.shields.io/badge/NeoForge-Latest-e07b39?style=flat-square)](https://neoforged.net/)
-[![Status](https://img.shields.io/badge/服务器状态-运行中-4caf50?style=flat-square)]()
-[![Players](https://img.shields.io/badge/欢迎-新玩家-7b68ee?style=flat-square)]()
+![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-62b47a?style=flat-square&logoColor=white)
+![NeoForge](https://img.shields.io/badge/NeoForge-21.1.230-e07b39?style=flat-square)
+![Status](https://img.shields.io/badge/服务器状态-运行中-4caf50?style=flat-square)
+![Players](https://img.shields.io/badge/欢迎-新玩家-7b68ee?style=flat-square)
 
 </div>
 
@@ -27,7 +27,7 @@
 
 | 🐛 汇报 Bug | 💡 功能建议 | 📋 模组列表 | 💬 玩家社区 | 📜 服务器规则 |
 |:-----------:|:-----------:|:-----------:|:-----------:|:------------:|
-| [Issues](../../issues/new?template=bug_report.md) | [Discussions](../../discussions/new?category=ideas) | [查看模组](#-模组介绍) | 🐧：540586541 | [阅读规则](#-服务器须知) |
+| [Issues](../../issues/new?template=bug_report.md) | [Discussions](../../discussions/new?category=ideas) | [查看模组](#-模组介绍) | [加入 QQ 群 / Discord](#-社区与联系) | [阅读规则](#-服务器须知) |
 
 </div>
 
@@ -53,9 +53,11 @@
 
 ## 🏔️ 关于齿鸣幽境 — 新手必读
 
-> 齿鸣幽境是一个以**结构探险 + 机械动力 + 养老种田**为核心玩法的 Minecraft 整合包服务器。  
-> 你可以在这里深入各类神秘地下结构，搭建复杂的机械工厂，也可以安安静静地耕田养殖。  
-> 无论你是哪种玩法偏好，都欢迎来这片幽境安家。
+齿鸣幽境是一个基于 **NeoForge** 平台的 Minecraft 整合包服务器，无插件，在设计上平衡了冒险与科技元素，加入了大量增强氛围感与沉浸感的模组，并辅以各类性能优化。其中每个模组都经过配置调整，使游玩体验更加合理。
+
+整合包没有固定的核心玩法——你可以深入各类神秘的地下结构，搭建复杂的机械工厂，也可以安安静静地耕田养殖，建造雄伟的建筑亦或是温馨精致的小家。无论你是哪种玩法偏好，都欢迎来这片幽境安家。
+
+> 💡 **Tips**：整合包的设计以「平淡而有味」为核心，因此在模组选择上做了很多取舍。由于时间原因没有对每个模组进行深入测试，欢迎随时 [提出建议](../../issues)。
 
 ---
 
