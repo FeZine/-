@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 替换下方 URL 为你的服务器 Logo 图片链接 -->
-<img src="https://your-logo-url-here.png" alt="齿鸣幽境 Logo" width="480"/>
+<img src="pics/服务器logo_300.png" alt="齿鸣幽境 Logo" width="480"/>
 
 <br/>
 <br/>
