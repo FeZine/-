@@ -221,40 +221,40 @@ LOD（Level of Detail）模组的作用是为你探索过的区域生成低精�
 <details>
 <summary>点击展开（共 32 项）</summary>
 
-| # | 端类型 | 中文名 | 英文名 | 版本 |
-|:--:|:-----:|:------:|:------:|:-----:|
-| 1 | ☁️+💻 | Accessories | accessories-neoforge | 1.1.0-beta.53 |
-| 2 | ☁️+💻 | Accessories 兼容层 | accessories_compat_layer | 0.1.12 |
-| 3 | ☁️+💻 | Architectury | architectury | 13.0.8 |
-| 4 | ☁️+💻 | Bookshelf | bookshelf | 21.1.81 |
-| 5 | ☁️+💻 | Cloth Config | cloth-config | 15.0.140 |
-| 6 | ☁️+💻 | CoroUtil | coroutil | 1.3.9 |
-| 7 | ☁️+💻 | CreativeCore | CreativeCore | 2.13.39 |
-| 8 | ☁️+💻 | Cupboard | cupboard | 3.5 |
-| 9 | ☁️+💻 | Curios | curios | 9.5.1 |
-| 10 | ☁️+💻 | Forgified Fabric API | forgified-fabric-api | 0.116.7 |
-| 11 | ☁️+💻 | Framework | framework | 0.13.11 |
-| 12 | ☁️+💻 | Fzzy Config | fzzy_config | 0.7.6 |
-| 13 | ☁️+💻 | GeckoLib | geckolib | 4.8.4 |
-| 14 | ☁️+💻 | Integrated API | integrated_api | 1.7.4 |
-| 15 | ☁️+💻 | Konkrete | konkrete | 1.9.9 |
-| 16 | ☁️+💻 | Kotlin for Forge | kotlinforforge | 5.11.0 |
-| 17 | ☁️+💻 | Moonlight Lib | moonlight | 3.0.13 |
-| 18 | ☁️+💻 | MossyLib | MossyLib | 1.3.0 |
-| 19 | ☁️+💻 | MRU | mru | 1.0.19 |
-| 20 | ☁️+💻 | Owo Lib | owo-lib | 0.12.15.5 |
-| 21 | ☁️+💻 | Placebo | Placebo | 9.9.1 |
-| 22 | ☁️+💻 | Platform | Platform | 1.3.3 |
-| 23 | ☁️+💻 | Player Animation Lib | PlayerAnimationLib | 1.1.4 |
-| 24 | ☁️+💻 | Prickle | prickle | 21.1.11 |
-| 25 | ☁️+💻 | Puzzles Lib | PuzzlesLib | 21.1.44 |
-| 26 | ☁️+💻 | Ritchie's Projectile Lib | ritchiesprojectilelib | 2.1.2 |
-| 27 | ☁️+💻 | TerraBlender | TerraBlender | 4.1.0.8 |
-| 28 | ☁️+💻 | Yet Another Config Lib | yet_another_config_lib | 3.8.2 |
-| 29 | ☁️+💻 | YUNG's API | YungsApi | 5.1.6 |
-| 30 | ☁️+💻 | Zeta | Zeta | 1.1-40 |
-| 31 | ☁️ | Cristellib | cristellib | 3.1.4 |
-| 32 | ☁️ | Lithostitched | lithostitched | 1.7.7 |
+| # | 端类型 | 英文名 | 版本 |
+|:--:|:-----:|:------:|:----:|
+| 1 | ☁️+💻 | accessories-neoforge | 1.1.0-beta.53 |
+| 2 | ☁️+💻 | accessories_compat_layer | 0.1.12 |
+| 3 | ☁️+💻 | architectury | 13.0.8 |
+| 4 | ☁️+💻 | bookshelf | 21.1.81 |
+| 5 | ☁️+💻 | cloth-config | 15.0.140 |
+| 6 | ☁️+💻 | coroutil | 1.3.9 |
+| 7 | ☁️+💻 | CreativeCore | 2.13.39 |
+| 8 | ☁️+💻 | cupboard | 3.5 |
+| 9 | ☁️+💻 | curios | 9.5.1 |
+| 10 | ☁️+💻 | forgified-fabric-api | 0.116.7 |
+| 11 | ☁️+💻 | framework | 0.13.11 |
+| 12 | ☁️+💻 | fzzy_config | 0.7.6 |
+| 13 | ☁️+💻 | geckolib | 4.8.4 |
+| 14 | ☁️+💻 | integrated_api | 1.7.4 |
+| 15 | ☁️+💻 | konkrete | 1.9.9 |
+| 16 | ☁️+💻 | kotlinforforge | 5.11.0 |
+| 17 | ☁️+💻 | moonlight | 3.0.13 |
+| 18 | ☁️+💻 | MossyLib | 1.3.0 |
+| 19 | ☁️+💻 | mru | 1.0.19 |
+| 20 | ☁️+💻 | owo-lib | 0.12.15.5 |
+| 21 | ☁️+💻 | Placebo | 9.9.1 |
+| 22 | ☁️+💻 | Platform | 1.3.3 |
+| 23 | ☁️+💻 | PlayerAnimationLib | 1.1.4 |
+| 24 | ☁️+💻 | prickle | 21.1.11 |
+| 25 | ☁️+💻 | PuzzlesLib | 21.1.44 |
+| 26 | ☁️+💻 | ritchiesprojectilelib | 2.1.2 |
+| 27 | ☁️+💻 | TerraBlender | 4.1.0.8 |
+| 28 | ☁️+💻 | yet_another_config_lib | 3.8.2 |
+| 29 | ☁️+💻 | YungsApi | 5.1.6 |
+| 30 | ☁️+💻 | Zeta | 1.1-40 |
+| 31 | ☁️ | cristellib | 3.1.4 |
+| 32 | ☁️ | lithostitched | 1.7.7 |
 
 </details>
 
@@ -553,6 +553,7 @@ LOD（Level of Detail）模组的作用是为你探索过的区域生成低精�
 | # | 端类型 | 类型 | 中文名 | 英文名 | 版本 | 简介 |
 |:--:|:-----:|:----:|:------:|:------:|:----:|:----:|
 | 1 | ☁️ | 性能优化 | 让我消失 | Let Me Despawn | 1.5.0 | 使捡起物品的生物依旧可以消失 |
+| 2 |   | 前置 | - | Almanac | 1.5.2 | - |  
 
 </details>
 
